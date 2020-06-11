@@ -44,7 +44,7 @@ class MovieAdd extends PureComponent {
           </div>
           <div className="common ">
             <button onClick={this.addMovie} className="addBtn">
-              Add
+              Search
             </button>
           </div>
         </div>
