@@ -1,0 +1,9 @@
+tab1 has no pagination and poster. only list of movies come there.
+also we can search information about movie you just pass the 
+movie name and release year on text box and search.
+
+
+tab2 has pagination and poster. and all things are same as tab1
+
+
+you can find screen shot in screenshot folder
